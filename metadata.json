@@ -1,0 +1,6 @@
+{
+  "name": "Snake Evolution",
+  "description": "Premium Neon Arcade Cyberpunk Snake game with evolution stages, boss battles, skill tree, game modes, missions, and custom skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

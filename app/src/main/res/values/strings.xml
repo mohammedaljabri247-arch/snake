@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snake Evolution</string>
+    <string name="app_subtitle">Neon Survival • الحنش المتطور</string>
+    <string name="play_now">PLAY NOW</string>
+    <string name="game_modes">GAME MODES</string>
+    <string name="missions">MISSIONS</string>
+    <string name="snake_skins">SNAKE SKINS</string>
+    <string name="upgrades">SKILL TREE</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="daily_challenges">DAILY CHALLENGES</string>
+    <string name="best_score">BEST SCORE</string>
+    <string name="energy_coins">ENERGY COINS</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="revive">REVIVE (SHIELD)</string>
+</resources>
